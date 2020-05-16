@@ -1,8 +1,8 @@
-class QueueStatic {
+class StaticQueue {
     String vetor [];
     int fim;
 
-    public QueueStatic(int maxSize) {
+    public StaticQueue(int maxSize) {
         vetor = new String[maxSize];
         fim = -1;
     }

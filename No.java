@@ -10,6 +10,6 @@ public class No {
 
     void inserir(String novo) {
         No novoNo = new No(novo);
-        novoNo.proximoNo = null;
+        novoNo.proxNo = null;
     }
 }
