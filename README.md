@@ -11,3 +11,4 @@ Esta estrutura permite o controle do limite de agendamentos, atraves da implemen
 
 1 Fila Dinâmica para agendamento com Enfermagem.
 Esta estrutura permitirá agendar consultas quantas consultas forem necessárias, sem limite de pacientes. 
+
